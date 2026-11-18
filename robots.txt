@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://spartan3055.github.io/plainly-given/sitemap.xml
